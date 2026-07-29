@@ -1,6 +1,6 @@
 cask "ventmac" do
-  version "0.2.0"
-  sha256 "0999283e6487470712cf4f330c1b0258a4a7f938b42098b14e7c30e91ff0ba08"
+  version "0.3.0"
+  sha256 "58ec0a412a2684b7c594d570c34e3bdb6c8a7993e288477e2d92071da4f7b71c"
 
   url "https://github.com/johnnymiranda/ventmac/releases/download/v#{version}/VentMac-#{version}.zip"
   name "VentMac"
